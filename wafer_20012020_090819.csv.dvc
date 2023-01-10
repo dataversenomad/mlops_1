@@ -1,0 +1,4 @@
+outs:
+- md5: 7afb4f84d22704692f2096d84efdf508
+  size: 370088
+  path: Prediction_Batch_files/wafer_20012020_090819.csv
